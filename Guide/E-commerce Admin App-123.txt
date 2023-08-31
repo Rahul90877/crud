@@ -1,0 +1,37 @@
+E-commerce Admin App:-
+
+1.Login
+2.Add products page
+i)product name
+ii)Product image(multiple images optional)
+iii)Product Description 
+iv)price
+3. Banner images upload 
+4. View Orders(optional)
+
+E-commerce Customer App:-
+1. Home page 
+i)search bar
+ii)banner area(from Admin)
+iii)products list
+iv) footer contact us
+
+2. Product details page
+i)product name
+ii) multiple images
+iii)description
+iv) +- count
+v) price view
+v) buy now (Razorpay) & add to cart buttons
+
+3. Cart page
+i) list of products with remove button
+ii) total price
+iii) buy now button (razor pay)
+
+4. Order placed screen (Table view)
+i. Order number 
+ii. Order date
+iii. No of products
+iv. Order value
+v. View order button (on clicking it, we can view products in model pop up)

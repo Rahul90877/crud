@@ -1,0 +1,8 @@
+local storage 
+
+angular default storage 
+
+setitem - post 
+getitem - get 
+
+post - url(post title)

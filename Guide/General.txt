@@ -1,0 +1,21 @@
+Front End - Angular(HTML, CSS, Bootstrap, Typescript)
+Back End - Dotnet Core
+Database - MS SQL
+Hosting - AWS
+
+
+Use icons:-
+
+Font awesome 4
+
+https://fontawesome.com/v4/icons/
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+routerLink="/about"
+
+transparent
+
+https://hype4.academy/tools/glassmorphism-generator
+
+edit
+https://www.canva.com/

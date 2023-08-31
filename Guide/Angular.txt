@@ -1,0 +1,25 @@
+Angular - ng
+Node JS - npm
+command Prompt - cmd
+
+
+1. Move to Angular folder (cmd)
+2. Create new Angular project --> ng new evilo -->Routing Yes -->SCSS
+3. Move to Project folder (cmd)
+4. Run project --> ng serve -o
+5. Rule --> cmd must run
+6. open another cmd in project path to create components
+7. Open project in VS Code
+8. src -> app -> app.component.html
+9. Delete all contents except <router-outlet></router-outlet>
+10. Create component --> ng generate component home (or) ng g c home
+11. generate a path in app-routing.module.ts
+
+const routes: Routes = [
+  {path:'home', component: HomeComponent},
+  {path:'abt', component:AboutComponent}
+];
+
+12. Add bootstrap path in index.html
+
+try home some page of enzymco.in
